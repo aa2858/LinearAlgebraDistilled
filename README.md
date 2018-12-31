@@ -1,1 +1,1 @@
-# LinearAlgebraDistilled
+# Linear Algebra Distilled
